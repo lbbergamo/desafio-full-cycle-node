@@ -20,11 +20,11 @@ Funcionalidades Implementadas:
 - Docker
 - Docker-Compose
 
-## 💻 Instruções de Uso:
+## 💻 Instruções de Uso
 
 1. Clone este repositório:
 ```sh
-docker-compose up -d
+git clone https://github.com/lbbergamo/desafio-full-cycle-node.git
 ```
 
 2. Execute o seguinte comando para iniciar os serviços:
