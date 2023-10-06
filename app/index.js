@@ -32,7 +32,7 @@ connection.query(sqlQuery, (err, result) => {
 })
 
 app.get('/', (req, res) => {
-    const response = `<h1>Full Cycle</h1>\n${saveResult}`
+    const response = `<h1>Full Cycle Rocks!</h1>\n${saveResult}`
     res.send(response)
 })
 
