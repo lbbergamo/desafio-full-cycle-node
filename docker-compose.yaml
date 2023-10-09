@@ -23,7 +23,7 @@ services:
     networks:
       - challenge-network
     volumes:
-      - /usr/src/app
+      - /app
     ports:
       - "3000:3000"
     restart: always
